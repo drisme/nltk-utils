@@ -1,0 +1,9 @@
+attrs==17.4.0
+funcsigs==1.0.2
+nltk==3.2.5
+pluggy==0.6.0
+py==1.5.2
+pytest==3.4.1
+six==1.11.0
+tox==2.9.1
+virtualenv==15.1.0
